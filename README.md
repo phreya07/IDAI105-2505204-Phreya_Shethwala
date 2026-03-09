@@ -191,4 +191,4 @@ Overall, the analysis provides valuable insights into customer behavior, helping
 
 This project demonstrates how data mining techniques can be applied to retail sales data to extract meaningful insights. By combining data preprocessing, exploratory analysis, clustering, association rule mining, and anomaly detection, the project reveals patterns that help retailers understand customer behavior and improve business strategies. The interactive Streamlit dashboard makes these insights accessible and easy to explore.
 
-Streamlit Link: 
+Streamlit Link: https://idai105-2505204-phreyashethwala-ndrsjyeudx7drnxvirbbxg.streamlit.app/
