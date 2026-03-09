@@ -41,7 +41,7 @@ Detect anomalies such as unusually high spending customers.
 
 Present insights through an interactive Streamlit dashboard.
 
-Problem Statement
+# Problem Statement
 
 Retailers often collect large volumes of transaction data during major sales events, but this data is rarely analyzed effectively. Without proper analysis, businesses may miss valuable insights about customer behavior, product demand, and purchasing patterns.
 
